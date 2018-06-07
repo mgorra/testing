@@ -1,1 +1,11 @@
 repohelper  sign in?
+cant init in elegit
+cant clone local
+include password stuff in transcript or not?
+git clone "for a remote server"?
+//add *: workingtreepanelview, sessioncontroller
+RepoFile: canAdd() called in session controller always false how does this work?
+ClonedRepoHelperBuilderTest always passes
+need to test select all in add
+can't deselect one file? problems w/ staged
+stalling out at commit

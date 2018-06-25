@@ -9,3 +9,4 @@ ClonedRepoHelperBuilderTest always passes
 need to test select all in add
 can't deselect one file? problems w/ staged
 stalling out at commit
+this should be a merge conflict introduced in the remote
